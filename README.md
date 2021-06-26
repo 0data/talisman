@@ -4,6 +4,7 @@
 <h1 align="center">Talisman</h1>
 <p align="center">A tool to detect and prevent secrets from getting checked in</p>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9735a9f0010f41979a57ad2be1e7e0c8)](https://app.codacy.com/gh/0data/talisman?utm_source=github.com&utm_medium=referral&utm_content=0data/talisman&utm_campaign=Badge_Grade)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Go Report Card](https://goreportcard.com/badge/thoughtworks/talisman)](https://goreportcard.com/report/thoughtworks/talisman) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/thoughtworks/talisman/issues) [![Build Status](https://travis-ci.org/thoughtworks/talisman.svg?branch=master)](https://travis-ci.org/thoughtworks/talisman) [![Coverage Status](https://coveralls.io/repos/github/thoughtworks/talisman/badge.svg?branch=master)](https://coveralls.io/github/thoughtworks/talisman?branch=master)
 
 
